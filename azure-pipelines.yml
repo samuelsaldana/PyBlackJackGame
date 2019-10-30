@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
+- script: echo Testining pipeline with Azure framework DevOps!
   displayName: 'Run a one-line script'
 
 - script: |
